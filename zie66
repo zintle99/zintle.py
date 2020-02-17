@@ -1,0 +1,10 @@
+## question 5.1 solution
+
+current_time_string=input("what is the current time now in hours")
+wating_time_string=input("how many hours do have to wait")
+
+current_time_int=int(current_time_string)
+waiting_time_int=int(waiting_time_string)
+
+hours=current_time_int = waiting_time_int
+timeofday=hour % 24
